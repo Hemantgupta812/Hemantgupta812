@@ -38,7 +38,7 @@
 
 ## 🚀 Notable Projects
 
-### 🥳 [Partyza App](https://play.google.com/store/apps/details?id=partyza.app)  
+### 🥳 [Partyza App](https://play.google.com/store/apps/details?id=com.psma.videoinvitationmaker)  
 📈 _1M+ downloads · 4.7★ rating_  
 ✅ Jetpack Compose UI  
 ✅ Premium templates via Google Billing v7  
