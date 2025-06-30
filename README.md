@@ -46,14 +46,14 @@
 
 ---
 
-### 🎥 TinyFlick – Video Compressor  
+### 🎥 [TinyFlick – Video Compressor](https://play.google.com/store/apps/details?id=com.psma.tinyflick) 
 📉 _Reduced file size by up to 60%_  
 🛠️ FFmpeg-powered, high-quality real-time compression  
 💡 Optimized for performance and memory usage
 
 ---
 
-### 🖼️ Add Watermark – Editor  
+### 🖼️ [Add Watermark – Editor](https://play.google.com/store/apps/details?id=com.SimplyEntertaining.addwatermark)   
 🌟 _5M+ downloads · 4.8★ rating_  
 ✅ Drag & drop watermark UI  
 ✅ Batch media processing  
