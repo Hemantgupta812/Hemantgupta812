@@ -20,14 +20,29 @@
 ## 🔧 Tech Stack & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+  <a href="https://kotlinlang.org/docs/home.html" target="_blank">
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
+  </a>
+  <a href="https://docs.oracle.com/en/java/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+  </a>
+  <a href="https://developer.android.com/develop/ui/compose/documentation" target="_blank">
+    <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=android&logoColor=white"/>
+  </a>
+  <a href="https://developer.android.com/studio" target="_blank">
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white"/>
+  </a>
+  <a href="https://firebase.google.com/docs" target="_blank">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+  </a>
+  <a href="https://git-scm.com/doc" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  </a>
+  <a href="https://learning.postman.com/docs/introduction/overview/" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+  </a>
 </p>
+
 
 🧩 **Architectures & Patterns:** MVVM, MVP, MVI, Repository, Singleton  
 🔐 **Libraries:** Room, DataStore, Navigation, WorkManager, Retrofit  
